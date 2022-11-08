@@ -492,7 +492,7 @@ figure.effect-duke:hover p {
 }
 
 .tm-copyright-text {
-  font-size: 0.85rem;
+  font-size: 0.7rem;
 }
 
 .tm-copyright-link {
@@ -725,13 +725,11 @@ hr {
 
   .tm-section-logo {
     padding-top: 3rem;
-
   }
 
   .tm-p-1-section-1 {
     margin-top: 50px;
     margin-bottom: 50px;
-    
   }
 
   .tm-p-2-section-1 {
