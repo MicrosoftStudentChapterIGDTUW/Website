@@ -14,7 +14,7 @@ https://templatemo.com/tm-527-sided
 
 html {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
-  font-size: 21px;
+  font-size: 26px;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   scroll-behavior: smooth;
@@ -54,7 +54,7 @@ h2 {
 }
 
 p {
-  line-height: 1.7;
+  line-height: 0.8;
 }
 
 .tm-text-white {
@@ -201,7 +201,7 @@ p {
 
 .tm-section-col-4 {
   margin-right: 0;
-  margin-left: auto;
+  margin-left: 58%;
 }
 
 .tm-section-text-container-4 {
@@ -263,8 +263,8 @@ p {
   background: #3085a3;
   text-align: center;
   cursor: pointer;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 65%;
+  margin-right: 60px;
 }
 
 .grid figure img {
@@ -332,8 +332,8 @@ p {
 /*---------------*/
 
 figure.effect-duke {
-  background: -webkit-linear-gradient(-45deg, #34495e 0%, #cc6055 100%);
-  background: linear-gradient(-45deg, #34495e 0%, #cc6055 100%);
+  background: -webkit-linear-gradient(-45deg, #1a6492 0%, #094ea3 100%);
+  background: linear-gradient(-45deg, #6e757d 0%, #7aaee5 100%);
 }
 
 figure.effect-duke img,
@@ -359,10 +359,10 @@ figure.effect-duke h2 {
 
 figure.effect-duke p {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  margin: 20px;
-  padding: 30px;
+  bottom: 25%;
+  left: 20%;
+  margin: 10%;
+  padding: 10px;
   border: 2px solid #fff;
   text-transform: none;
   font-size: 90%;
